@@ -1,6 +1,6 @@
 # CS450-Operating-Systems-
 
-This repository contains the lab reports for operating systems class. Since we were working with xv6 operating system, we pulled the OS files from the MIT repository to work on the labs.
+This repository contains the lab reports for operating systems class. Since we were working with xv6 operating system, we pulled the OS files from the MIT repository to work on the labs. I used VIM to work on this lab and the VIM debugger to handle debugging issues. The debugger allowed me to step through the code and see what I did wrong.
 
 Note: I received an excellent grade for each lab, along with extra credit points. I also cried myself to sleep a few times.
 
